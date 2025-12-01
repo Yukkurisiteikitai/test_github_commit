@@ -1,5 +1,10 @@
 # 教えたこと
 * SSHキーの設定
+
+参考記事
+https://qiita.com/litswd0211/items/70f8f9ae50f1b9e24dce
+https://qiita.com/shizuma/items/2b2f873a0034839e47c
+
 * 公開鍵暗号方式  
 
 【ざっくりイメージ】   
