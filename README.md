@@ -1,3 +1,3 @@
 # test_github_commit
 Githubのコミットとかの実験用
-test
+test aatanomu
