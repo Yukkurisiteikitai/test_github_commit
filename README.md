@@ -1,4 +1,10 @@
-# test_github_commit
-Githubのコミットとかの実験用
-test aatanomu
-kokoro
+# 概要
+Githubのコミットとかの実験用のリポジトリとなっています。
+
+# 手順
+1. SSHキーの設定をする
+2. githubのリモートリポジトリから本リポジトリをクローンする
+3. gitでbranchを切る
+4. gitで適当に自分の名前をつけたファイルを作成してコミットする
+5. gitで3で設定したブランチでのpush
+6. pushしたもののPR(Pull Request)の作成
